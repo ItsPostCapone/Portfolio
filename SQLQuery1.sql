@@ -4,7 +4,7 @@
 -- The ETL process goes as such:
 	-- step 1 pull data
 	-- step 2 import csv to excel and delete unwanted rows
-	-- step 3 imput formula to calculate totals
+	-- step 3 imput formula to calculate % totals
 	-- step 4 in SQL Query window, create new database for the project
 	-- step 5 load both data sets into the database as seperate tables
 	-- step 6 open a new query window
