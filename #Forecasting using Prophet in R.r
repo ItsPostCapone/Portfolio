@@ -1,5 +1,4 @@
 #Forecasting using Prophet in R
-#CaseyBially
 #Loading the Packages
 install.packages('prophet')
 library(prophet)
